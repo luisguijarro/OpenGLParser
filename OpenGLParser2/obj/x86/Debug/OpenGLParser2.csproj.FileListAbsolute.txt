@@ -1,0 +1,4 @@
+/home/luisgp82/PROGRAMACION/PROGRAMACION_2019/OpenGLParser2/OpenGLParser2/bin/Debug/OGLP2.exe
+/home/luisgp82/PROGRAMACION/PROGRAMACION_2019/OpenGLParser2/OpenGLParser2/bin/Debug/OGLP2.pdb
+/home/luisgp82/PROGRAMACION/PROGRAMACION_2019/OpenGLParser2/OpenGLParser2/obj/x86/Debug/OGLP2.exe
+/home/luisgp82/PROGRAMACION/PROGRAMACION_2019/OpenGLParser2/OpenGLParser2/obj/x86/Debug/OGLP2.pdb
