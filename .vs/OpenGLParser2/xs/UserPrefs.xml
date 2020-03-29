@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1305E0BF-389C-480E-A434-DB8AE7C33509}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenGLParser2/Parsers/EnumParser.cs">
+    <Files>
+      <File FileName="OpenGLParser2/FilesWriters/EnumWriter.cs" Line="32" Column="33" />
+      <File FileName="OpenGLParser2/Parsers/EnumParser.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenGLParser2" expanded="True">
+            <Node name="OpenGLParser2" expanded="True">
+              <Node name="FilesWriters" expanded="True" />
+              <Node name="Parsers" expanded="True">
+                <Node name="EnumParser.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.OpenGLParser2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
